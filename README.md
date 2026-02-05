@@ -11,8 +11,8 @@ Software Engineer | ASP.NET MVC | SQL Server | Cloud Learner
 ## 🔧 Tech Stack
 **Languages:** C#, JavaScript, SQL  
 **Frameworks:** ASP.NET MVC, jQuery, Bootstrap  
-**Tools:** SQL Server, Git, Selenium, Azure DevOps  
-**Interests:** Automation, performance tuning  
+**Tools:** SQL Server, Git, Selenium
+<!-- **Interests:** Automation, performance tuning -->
 
 ## 📌 Featured Projects
 <!--
