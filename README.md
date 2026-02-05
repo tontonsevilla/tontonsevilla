@@ -22,8 +22,10 @@ Software Engineer | ASP.NET MVC | SQL Server | Cloud Learner
 - [Cloud‑Ready Microservice Template](#)  
 -->
 
+<!--
 ## 📊 GitHub Stats
 ![Winston's GitHub Stats](https://github-readme-stats.vercel.app/api?username=tontonsevilla&show_icons=true)
+-->
 
 ## 🎯 Current Focus
 <!--
